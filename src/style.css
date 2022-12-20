@@ -1,0 +1,58 @@
+.white{color: white;}
+#logo{ font-size: 20px;
+        color: dimgrey;
+      }
+#top{background-color: orange;
+    text-align: center;
+    padding: 15px;
+  }
+#body{
+align: center;
+}
+.lateral-menu-title{
+  background-color: lightgrey;
+  color: dimgrey;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+#menu{ padding: 10px;
+}
+#textos{
+  font-size: 15px;
+}
+#menu a{ text-decoration: none;
+  padding: 8px 12px;
+}
+#menu a:link{
+  color:white;
+  padding: 8px 12px;
+}
+#menu a:active{
+  color: white;
+  padding: 8px 12px;
+
+}
+#menu a:visited{
+  color: white;
+  padding: 8px 12px;
+}
+#menu a:hover{
+  background-color: white;
+  color: orange;
+  padding: 8px 12px;
+}
+#body a{
+  text-decoration: none;
+  color: orange;
+}
+#body a:hover{
+  text-decoration: underline;
+}
+h2{
+  color: orange;
+}
+
+h5{
+  text-decoration: none;
+}
