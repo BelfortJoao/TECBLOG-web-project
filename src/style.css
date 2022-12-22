@@ -11,8 +11,24 @@
     padding: 15px 15px 0px 15px;
   }
 #corpo{
+  text-align: justify;
   width: 900px;
   margin: 15px auto;
+}
+.artigo{
+ text-indent: 14px;
+}
+#botton-menu{
+  text-align: center;
+  width: 675px;
+  margin: 0px auto
+}
+#botton-menu img{
+  width: 400px;
+}
+.artigo img{
+  width: 100%;
+  border: 8px solid lightsalmon;
 }
 #lateral-menu{
   margin: 15px 0px 0px 5px;
